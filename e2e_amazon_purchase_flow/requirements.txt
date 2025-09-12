@@ -1,0 +1,3 @@
+selenium==4.x
+pytest==8.x
+webdriver-manager==5.x
